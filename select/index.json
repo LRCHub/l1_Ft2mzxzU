@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Daydream",
+  "base_artist": "SEE",
+  "createdAt": "2025-12-29T02:16:46.011696Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Midnight Daydream (Live)",
+      "artist": "Jameson Rodgers",
+      "has_synced": true,
+      "path": "select/01_Midnight_Daydream_(Live)_Jameson_Rodgers.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Moonage Daydream (Live on 3rd July 1973)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/02_Moonage_Daydream_(Live_on_3rd_July_1973)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Moonage Daydream",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/03_Moonage_Daydream_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Moonage Daydream",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/04_Moonage_Daydream_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Moonage Daydream",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/05_Moonage_Daydream_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Moonage Daydream - Arnold Corns Version; 2002 Remastered Version",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/06_Moonage_Daydream_-_Arnold_Corns_Version;_2002_Remastered_Version_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Moonage Daydream (Arnold Corns Version)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/07_Moonage_Daydream_(Arnold_Corns_Version)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Moonage Daydream (Instrumental)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/08_Moonage_Daydream_(Instrumental)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Moonage Daydream - New Mix; 2002 Remastered Version",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/09_Moonage_Daydream_-_New_Mix;_2002_Remastered_Version_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Moonage Daydream (New Mix)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/10_Moonage_Daydream_(New_Mix)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Daydream",
+      "artist": "Youth Lagoon",
+      "has_synced": true,
+      "path": "select/11_Daydream_Youth_Lagoon.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Daydream",
+      "artist": "Lupe Fiasco",
+      "has_synced": false,
+      "path": "select/12_Daydream_Lupe_Fiasco.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Daydream In Blue",
+      "artist": "I Monster",
+      "has_synced": true,
+      "path": "select/13_Daydream_In_Blue_I_Monster.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dancer in a Daydream",
+      "artist": "Ace of Base",
+      "has_synced": true,
+      "path": "select/14_Dancer_in_a_Daydream_Ace_of_Base.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Daydream",
+      "artist": "Beach Fossils",
+      "has_synced": true,
+      "path": "select/15_Daydream_Beach_Fossils.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Daydream",
+      "artist": "Beach Fossils",
+      "has_synced": true,
+      "path": "select/16_Daydream_Beach_Fossils.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Daydream",
+      "artist": "Beach Fossils",
+      "has_synced": false,
+      "path": "select/17_Daydream_Beach_Fossils.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Daydream",
+      "artist": "SEE",
+      "has_synced": false,
+      "path": "select/pl_01_Daydream_SEE.txt"
+    }
+  ]
+}
